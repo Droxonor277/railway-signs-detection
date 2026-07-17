@@ -1,0 +1,11 @@
+main_signal
+distant_signal
+dwarf_signal
+sign_1_stripes
+sign_2_stripes
+sign_3_stripes
+sign_4_stripes
+sign_1_triangle
+sign_2_triangle
+sign_3_triangle
+distant_sign
